@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\bin\Debug\phase1-stacks.exe.config
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\bin\Debug\phase1-stacks.exe
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\bin\Debug\phase1-stacks.pdb
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\obj\Debug\phase1-stacks.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\obj\Debug\phase1-stacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\obj\Debug\phase1-stacks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\obj\Debug\phase1-stacks.exe
+C:\Users\Admin\source\repos\phase1-stacks\phase1-stacks\obj\Debug\phase1-stacks.pdb
